@@ -9,8 +9,8 @@
 <!-- start
 =============================================================================-->
 <!-- navbar -->
-<nav class="nav">
-  <img class="nav-icon" src="assets/img/logo.png" />
+<nav class="nav" id="nav">
+  <img class="nav-icon" src="assets/img/logo2.png" />
   <ul class="nav-items">
     <li><a href="">Home</a></li>
     <li><a href="">Click me</a></li>

@@ -5,13 +5,16 @@
 ============================================================================ -->
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Guide</title>
   </head>
 
 <!-- css link
 ============================================================================ -->
   <link rel="stylesheet" href="assets/css/master.css">
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/animate.css">
+
 
 <!-- content
 =============================================================================-->
@@ -30,8 +33,13 @@
 
 <!-- js
 =============================================================================-->
-    <script type="text/javascript" src="assets/js/script.js"></script>
     <script type="text/javascript" src="assets/js/jquery.js"></script>
+    <script type="text/javascript" src="assets/js/SmoothScroll.min.js"></script>
+      <script type="text/javascript" src="assets/js/wow.min.js"></script>
+    <script type="text/javascript" src="assets/js/script.js"></script>
+    <script type="text/javascript">
+      new WOW().init();
+    </script>
 
   </body>
 </html>
