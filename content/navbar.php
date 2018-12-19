@@ -9,14 +9,17 @@
 <!-- start
 =============================================================================-->
 <!-- navbar -->
-<nav class="nav" id="nav">
-  <img class="nav-icon" src="assets/img/logo2.png" />
-  <ul class="nav-items">
-    <li><a href="">Home</a></li>
-    <li><a href="">Click me</a></li>
-    <li><a href="">About</a></li>
-    <li><a href="">Contact</a></li>
-  </ul>
+<nav id="nav">
+  <div class="nav">
+    <a href="#"><img class="nav-icon" src="assets/img/logo2.png" /></a>
+
+    <ul class="nav-items">
+      <li><a href="">Home</a></li>
+      <li><a href="">Click me</a></li>
+      <li><a href="">About</a></li>
+      <li><a href="">Contact</a></li>
+    </ul>
+  </div>
 </nav>
 
 <!-- burger menu -->
