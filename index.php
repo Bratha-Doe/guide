@@ -15,13 +15,12 @@
   <link rel="stylesheet" href="assets/css/master.css">
   <link rel="stylesheet" href="assets/css/animate.css">
 
-
 <!-- content
 =============================================================================-->
   <body>
     <div class="full-body">
       <div class="navbar-index">
-        <?php include 'content/navbar.php'; ?>
+        <?php include 'content/navbar.php'; ?> 
       </div>
       <div class="body-index">
         <?php include 'content/content.php'; ?>
